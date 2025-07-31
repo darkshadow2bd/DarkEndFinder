@@ -31,10 +31,10 @@ javascript: (() => { function g(d) { const p = d.split('.'); return p.length > 2
 
 ## 📦 How to Use
 
-1. Copy the full Bookmarklet Source Code
+1. Copy the full Bookmarklet.js Source Code
 2. Create a new bookmark in your browser
 3. Paste the entire code into the bookmark URL
-4. Name it: `BrowserEndpointExtractor`
+4. Name it: `𝘿𝙖𝙧𝙠𝙀𝙣𝙙𝙁𝙞𝙣𝙙𝙚𝙧`
 5. Visit any target web page, click the bookmark
 6. Results will appear in a floating section at the bottom
 
